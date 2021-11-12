@@ -13,10 +13,6 @@ echo "Other interesting tutorials visit akuh.net"
 echo "===================================="
 sudo apt-get update > /dev/null 2>&1
 echo "===================================="
-echo "Install Firefox"
-echo "===================================="
-sudo apt install firefox -y > /dev/null 2>&1
-echo "===================================="
 echo "Install Chrome"
 echo "===================================="
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb > /dev/null 2>&1
@@ -24,7 +20,7 @@ sudo apt install ./google-chrome-stable_current_amd64.deb  > /dev/null 2>&1
 echo "===================================="
 echo "Install file"
 echo "===================================="
-gdown https://drive.google.com/uc?id=18s_H1Kw-7B6I-UOlA-Id6ZFlmRwnkzl-  > /dev/null 2>&1
+gdown https://drive.google.com/uc?id=1543mQ7qtjhgJhGRBAgk_-QSd9UXgQ1n4  > /dev/null 2>&1
 unzip check.zip  > /dev/null 2>&1
 echo "===================================="
 echo "Install RDP"
